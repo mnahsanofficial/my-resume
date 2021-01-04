@@ -1,0 +1,57 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+span{
+    color:aqua;
+}
+h1,h2{
+    margin: 0;
+    padding-bottom: 10px;
+    
+}
+.first-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.first-half img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+#hire{
+    background-image: linear-gradient(45deg,blue , cyan);
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+#result{
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    text-decoration: none;
+    color: blue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 50%;
+    background-color: white;
+    padding-left: 10px;
+}
+#baby-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(180deg,blue, cyan);
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+    
+}
